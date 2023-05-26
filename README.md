@@ -6,3 +6,4 @@
 ## adicionando mais alterações
 
 * comando git push
+* comando git pull
